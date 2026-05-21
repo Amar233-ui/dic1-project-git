@@ -1,1 +1,1 @@
-ce projet est elabore dans le cadre du cours de Gestion 
+ce projet est elabore dans le cadre du cours de Gestion de projet IT
